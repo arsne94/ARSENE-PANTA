@@ -1,83 +1,91 @@
-# 👋 Salut, je suis Arsène PANTA  
+<!-- Bannière ou image de profil -->
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Photo de profil" width="150" style="border-radius:50%">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](#)  
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:arsene.panta@yahoo.fr)  
-
-🚀 **Data Engineer | Consultant Big Data & BI**  
-Passionné par la **gestion et la valorisation des données**, je conçois et mets en place des pipelines de traitement, des architectures Big Data et des dashboards interactifs.  
-Mon objectif : transformer les données brutes en **insights exploitables** pour la prise de décision stratégique.  
-
-📍 Basé en région parisienne – Disponible pour collaborations et projets.  
+<h1 align="center">👋 Bonjour, je suis Arsène PANTA</h1>
+<h3 align="center">🚀 Data Engineer | Big Data & Cloud Enthusiast | BI & Analytics</h3>
 
 ---
 
-## 🛠️ Compétences techniques  
+## 🛠️ Compétences clés
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)  
-![Scala](https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?logo=microsoft-azure&logoColor=white)  
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?logo=databricks&logoColor=white)  
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?logo=snowflake&logoColor=white)  
-![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)  
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)  
+### 🔹 Big Data & Streaming  
+![Hadoop](https://img.shields.io/badge/-Hadoop-yellow?logo=apachehadoop&logoColor=white)
+![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-00ADEF?logo=databricks&logoColor=white)
 
-- **Big Data** : Hadoop, Spark (PySpark, Scala, Streaming, SQL), Hive, HBase, Cloudera  
-- **Cloud & ETL** : Azure (Data Factory, Databricks, DevOps), Snowflake, dbt, Talend, Airflow  
-- **Programmation** : Python, Scala, Shell (Bash)  
-- **Bases de données** : Oracle, PostgreSQL, SQL Server, MongoDB  
-- **Visualisation** : Power BI, Tableau  
-- **DevOps & Gestion projet** : Git/GitLab, Docker, Jenkins, Jira, Confluence (Scrum, Kanban)  
+### 🔹 Cloud & ETL  
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/-dbt-FF694B?logo=dbt&logoColor=white)
+![Talend](https://img.shields.io/badge/-Talend-FF6D00?logo=talend&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=apacheairflow&logoColor=white)
 
----
+### 🔹 Programmation  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)
 
-## 💼 Expériences clés  
-
-🔹 **Consultant Big Data – SAUR France (2023 - présent)**  
-- Développement de pipelines d’ingestion IoT (capteurs de télémétrie) via Databricks  
-- Mise en œuvre de l’architecture **bronze / silver / gold** avec Delta Lake  
-- CI/CD Databricks orchestré par Azure Data Factory  
-- Dashboards Power BI pour détecter les anomalies (fuites, surconsommations, alertes seuils)  
-
-🔹 **Consultant Data – Pernod Ricard (2022 - 2023)**  
-- Centralisation et automatisation des flux de données via **Snowflake & ADF**  
-- Transformation et validation des données pour garantir leur fiabilité  
-- Création de **dashboards interactifs** pour le pilotage des performances  
-- Recommandations stratégiques aux managers basées sur l’analyse des données  
-
-🔹 **Consultant BI & Data – TAD-IT AND Services (2021 - 2022)**  
-- Conception d’un **data warehouse** et datamarts pour l’analyse décisionnelle  
-- Développement de processus ETL et tableaux de bord interactifs en Power BI  
-- Formation des utilisateurs finaux pour démocratiser l’usage des outils analytiques  
+### 🔹 Bases de données & BI  
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
 ---
 
-## 📂 Projets GitHub  
+## 💼 Expériences
 
-👉 [**Data Pipeline IoT (Azure Databricks + Delta Lake)**](#)  
-*Pipeline complet d’ingestion et traitement de données capteurs, modélisation bronze/silver/gold, visualisation des anomalies.*  
+### 🏢 Consultant Big Data – SAUR France *(2023 - Présent)*
+- Pipelines IoT et batch/streaming avec Databricks & PySpark  
+- Modélisation Bronze/Silver/Gold avec Delta Lake  
+- CI/CD notebooks Databricks via Azure DevOps  
+- Reporting Power BI pour détection d’anomalies  
 
-👉 [**ETL Snowflake + dbt pour Reporting Automatisé**](#)  
-*Extraction multi-sources, transformation et intégration des données dans Snowflake avec automatisation via dbt.*  
+### 🏢 Consultant Data – Pernod Ricard *(2022 - 2023)*
+- Centralisation & automatisation des flux Snowflake + ADF  
+- Intégration & transformation de données multi-sources  
+- Dashboards Power BI (KPIs stratégiques)  
 
-👉 [**Dashboard Power BI – Analyse de Consommation**](#)  
-*Tableau de bord interactif pour suivre la consommation énergétique avec détection d’anomalies en temps réel.*  
-
-👉 [**Data Warehouse & Datamart – Modélisation en étoile**](#)  
-*Conception d’un data warehouse complet (ETL + modélisation dimensionnelle) avec tableaux de bord interactifs.*  
-
----
-
-## 📫 Me contacter  
-
-📧 [arsene.panta@yahoo.fr](mailto:arsene.panta@yahoo.fr)  
-💼 [LinkedIn](#) *(ajoute ton lien ici)*  
-📍 Paris, France  
+### 🏢 Consultant BI & Data – TAD-IT AND Services *(2021 - 2022)*
+- Data Warehouse & Datamarts (étoile/flocon)  
+- ETL Talend, Spark, Hive  
+- Tableaux de bord temps réel  
 
 ---
 
-🔥 **Mon credo** : *Les données ne valent rien si elles ne sont pas exploitées pour créer de la valeur.*  
+## 🎓 Formations & Certifications
+
+🎓 **Mastère Spécialisé Big Data – Data Management** (Ionis STM, 2023)  
+🎓 **Master Informatique, spécialité Génie Informatique** (UPAC, 2020)  
+
+📜 **Certifications** :  
+- Azure Data Engineer Associate *(Microsoft)*  
+- Snowflake SnowPro Core *(Snowflake)*  
+- Databricks Data Engineer Associate *(Databricks)*  
+- Power BI Data Analyst *(Microsoft)*  
+
+---
+
+## 🌍 À propos de moi
+💡 Je crois au **pouvoir des données** pour transformer la stratégie et l’innovation.  
+⚽ 🎮 📚 Passionné de **football, jeux vidéo, lecture et actualités internationales**.  
+🌐 Langues : Français (natif), Anglais (professionnel).  
+
+---
+
+## 📫 Me contacter
+
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:arsene.panta@yahoo.fr)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](#)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arsene-panta&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsene-panta&layout=compact&theme=radical" alt="langs" />
+</p>
