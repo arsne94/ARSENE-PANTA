@@ -65,11 +65,8 @@
 - Snowflake SnowPro Core *(Snowflake)*  
 - Power BI Data Analyst *(Microsoft)*
   
-<p align="center">
-  <img src="https://img.shields.io/badge/-SnowPro%20Core-29B5E8?logo=snowflake&logoColor=white" alt="Snowflake SnowPro Core"/>
-  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black" alt="Microsoft Power BI Data Analyst"/>
-</p>
-
+- <img src="https://img.shields.io/badge/-Snowflake-29B5E8?logo=snowflake&logoColor=white" height="20"/> Noyau Snowflake SnowPro (Snowflake)  
+- <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black" height="20"/> Analyste de données Power BI (Microsoft)  
 ---
 
 ## 🌍 À propos de moi
