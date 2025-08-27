@@ -5,6 +5,7 @@
 <h3 align="center">🚀 Data Engineer | Data Analyst | BI </h3>
 
 ---
+<p align="center">
 
 ## 🛠️ Compétences clés
 
@@ -32,6 +33,7 @@
 ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white)
 
+</p>
 ---
 
 ## 💼 Expériences
