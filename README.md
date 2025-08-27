@@ -63,7 +63,12 @@
 
 📜 **Certifications** :   
 - Snowflake SnowPro Core *(Snowflake)*  
-- Power BI Data Analyst *(Microsoft)*  
+- Power BI Data Analyst *(Microsoft)*
+  
+<p align="center">
+  <img src="https://img.shields.io/badge/-SnowPro%20Core-29B5E8?logo=snowflake&logoColor=white" alt="Snowflake SnowPro Core"/>
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black" alt="Microsoft Power BI Data Analyst"/>
+</p>
 
 ---
 
