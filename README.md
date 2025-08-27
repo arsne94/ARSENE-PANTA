@@ -1,7 +1,5 @@
 <!-- Bannière ou image de profil -->
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Photo de profil" width="150" style="border-radius:50%">
-</p>
+
 
 <h1 align="center">👋 Bonjour, je suis Arsène PANTA</h1>
 <h3 align="center">🚀 Data Engineer | Data Analyst | BI </h3>
