@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">👋 Bonjour, je suis Arsène PANTA</h1>
-<h3 align="center">🚀 Data Engineer | Big Data & Cloud Enthusiast | BI & Analytics</h3>
+<h3 align="center">🚀 Data Engineer | Data Analyst | BI </h3>
 
 ---
 
