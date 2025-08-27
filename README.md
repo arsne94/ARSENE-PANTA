@@ -6,17 +6,14 @@
 
 ---
 
-<p align="center">
-## 🛠️ Compétences clés
-</p>
 
-<p align="center">
+## 🛠️ Compétences clés
+
+
 ### 🔹 Big Data & Streaming  
 ![Hadoop](https://img.shields.io/badge/-Hadoop-yellow?logo=apachehadoop&logoColor=white)
 ![Spark](https://img.shields.io/badge/-Apache%20Spark-E25A1C?logo=apachespark&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/-Delta%20Lake-00ADEF?logo=databricks&logoColor=white)
-</p>
-
 
 ### 🔹 Cloud & ETL  
 ![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
