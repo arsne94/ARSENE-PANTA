@@ -61,10 +61,8 @@
 🎓 **Mastère Spécialisé Big Data – Data Management** (Ionis STM, 2023)  
 🎓 **Master Informatique, spécialité Génie Informatique** (UPAC, 2020)  
 
-📜 **Certifications** :  
-- Azure Data Engineer Associate *(Microsoft)*  
+📜 **Certifications** :   
 - Snowflake SnowPro Core *(Snowflake)*  
-- Databricks Data Engineer Associate *(Databricks)*  
 - Power BI Data Analyst *(Microsoft)*  
 
 ---
